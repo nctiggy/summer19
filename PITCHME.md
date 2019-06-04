@@ -10,7 +10,7 @@
 @snap[west span-50]
 ### HCI Standard
 @snapend
-@ul[east text-white span-50]
+@ul[south-east text-white span-50]
 - Environments Targeted
   - IBB & Remote Offices
 - What's Going Well

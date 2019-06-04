@@ -24,15 +24,14 @@
 
 ---?color=#2B9AD0
 
-@snap[#232C31]
+@snap[north span-100]
 ## @color[#232C31](Quarterly Deals and Risks P.2)
 @snapend
 
-@snap[west]
+@snap[west span-50]
 ### Tech Refresh
 @snapend
-@snap[east]
-@ul[spaced text-white]
+@ul[south-east span-50]
 - Environments Targeted
   - IBB & Std & Perf
 - What's Going Well
@@ -41,24 +40,21 @@
 - Risks
   - RCA for XIO1 Boot LUN
 @ulend
-@snapend
 
 
 ---?color=#2B9AD0
 
 ## @color[#232C31](Exploi...Leverage Work Done)
 
-@ul[spaced text-white]
-@snap[text-left]
-### The Unsolicited Train
+@snap[west span-50]
+### Reach White Space
 @snapend
+@ul[south-east span-50]
+- The Unsolicited Train
   - SIPS - SBUX Integrated Protection Suite
   - Unstructured - Summer/Fall
   - Boomi - Fall/Winter
-
-@snap[text-left]
-### Talent Lab
-@snapend
+- Talent Lab
   - Unstructured (maybe ML/AI)
   - Boomi
 @ulend

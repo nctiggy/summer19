@@ -28,10 +28,11 @@
 ## @color[#232C31](Quarterly Deals and Risks P.2)
 @snapend
 
-@ul[spaced text-white]
 @snap[text-left]
 ### Tech Refresh
 @snapend
+@snap[text-right]
+@ul[spaced text-white]
 - Environments Targeted
   - IBB & Std & Perf
 - What's Going Well
@@ -40,6 +41,7 @@
 - Risks
   - RCA for XIO1 Boot LUN
 @ulend
+@snapend
 
 
 ---?color=#2B9AD0

@@ -7,10 +7,10 @@
 @snap[north span-100]
 ## @color[#232C31](Quartly Deals and Risks P.1)
 @snapend
-@snap[west]
+@snap[west span-50]
 ### HCI Standard
 @snapend
-@snap[text-white east]
+@ul[east text-white span-50]
 - Environments Targeted
   - IBB & Remote Offices
 - What's Going Well
@@ -20,7 +20,7 @@
 - Risks
   - Price
   - Waning Desire to Change Architecture of IBB
-@snapend
+@ulend
 
 ---?color=#2B9AD0
 

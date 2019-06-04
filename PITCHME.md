@@ -1,11 +1,11 @@
 ---?color=#2B9AD0
 # SE Slide
-@fab[docker github]
+@fa[docker] @fa[github]
 
 
 ---?color=#2B9AD0
 
-@color[#232C31](## Quartly Deals and Risks P.1)
+## @color[#232C31](Quartly Deals and Risks P.1)
 
 @snap[text-left]
 ### HCI Standard

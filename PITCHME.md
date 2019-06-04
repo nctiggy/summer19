@@ -1,13 +1,14 @@
 ---?color=#2B9AD0
 # SE Slide
-@fab[docker]@fab[github]@fab[jenkins]@fab[python]@fab[coffee]@fab[linux]@fab[brackets-curly]
+@fab[docker] @fab[github] @fab[jenkins] @fab[python] @fab[coffee] @fab[linux]
 ---?color=#2B9AD0
 
 ## @color[#232C31](Quartly Deals and Risks P.1)
 
-@snap[text-left]
+@snap[west]
 ### HCI Standard
 @snapend
+@snap[east]
 @ul[spaced text-white]
 - Environments Targeted
   - IBB & Remote Offices
@@ -19,6 +20,7 @@
   - Price
   - Waning Desire to Change Architecture of IBB
 @ulend
+@snapend
 
 ---?color=#2B9AD0
 
@@ -26,10 +28,10 @@
 ## @color[#232C31](Quarterly Deals and Risks P.2)
 @snapend
 
-@snap[text-left]
+@snap[west]
 ### Tech Refresh
 @snapend
-@snap[text-right]
+@snap[east]
 @ul[spaced text-white]
 - Environments Targeted
   - IBB & Std & Perf

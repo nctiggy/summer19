@@ -1,6 +1,6 @@
 ---?color=#2B9AD0
 # SE Slide
-@fab[docker] @fab[github] @fab[jenkins] @fab[python] @fab[coffee] @fab[linux]
+@fab[docker] @fab[github] @fab[jenkins] @fab[python] @fab[coffee] @fab[fa-linux]
 
 ---?color=#2B9AD0
 
@@ -10,8 +10,7 @@
 @snap[west]
 ### HCI Standard
 @snapend
-@snap[east]
-@ul[spaced text-white]
+@ul[text-white east]
 - Environments Targeted
   - IBB & Remote Offices
 - What's Going Well
@@ -22,7 +21,6 @@
   - Price
   - Waning Desire to Change Architecture of IBB
 @ulend
-@snapend
 
 ---?color=#2B9AD0
 

@@ -6,7 +6,7 @@
 ## Quartly Deals and Risks P.1
 
 @ul[spaced text-white]
-HCI Standard
+### HCI Standard
 - Environments Targeted
   - IBB & Remote Offices
 - What's Going Well
@@ -23,7 +23,7 @@ HCI Standard
 ## Quarterly Deals and Risks P.2
 
 @ul[spaced text-white]
-Tech Refresh
+### Tech Refresh
 - Environments Targeted
   - IBB & Std & Perf
 - What's Going Well
@@ -39,11 +39,11 @@ Tech Refresh
 ## Exploi...Leverage Work Done
 
 @ul[spaced text-white]
-The Unsolicited Train
+### The Unsolicited Train
   - SIPS - SBUX Integrated Protection Suite
   - Unstructured - Summer/Fall
   - Boomi - Fall/Winter
-Talent Lab
+### Talent Lab
   - Unstructured (maybe ML/AI)
   - Boomi
 @ulend

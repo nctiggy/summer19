@@ -1,6 +1,7 @@
+---?color=#2B9AD0
 # SE Slide
 
----
+---?color=#2B9AD0
 
 ## Quartly Deals and Risks P.1
 
@@ -14,7 +15,9 @@
     - Risks
         - Price
         - Waning Desire to Change Architecture of IBB
----
+
+---?color=#2B9AD0
+
 ## Quarterly Deals and Risks P.2
 
 - Tech Refresh
@@ -27,7 +30,7 @@
         - RCA for XIO1 Boot LUN
 
 
----
+---?color=#2B9AD0
 
 ## Technical-Fu
 
@@ -39,11 +42,11 @@
     - Unstructured (maybe ML/AI)
     - Boomi
 
----
+---?color=#2B9AD0
 
 ![](https://i.imgur.com/P9WYDkU.png)
 
----
+---?color=#2B9AD0
 
 ![](https://i.imgur.com/DupBAWu.png)
 

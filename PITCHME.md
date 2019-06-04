@@ -1,10 +1,12 @@
 ---?color=#2B9AD0
 # SE Slide
 @fab[docker] @fab[github] @fab[jenkins] @fab[python] @fab[coffee] @fab[linux]
+
 ---?color=#2B9AD0
 
+@snap[north]
 ## @color[#232C31](Quartly Deals and Risks P.1)
-
+@snapend
 @snap[west]
 ### HCI Standard
 @snapend

@@ -46,6 +46,8 @@
 
 ## Exploi...Leverage Work Done
 
+@fab[docker]
+
 @snap[text-left]
 ### The Unsolicited Train
 @snapend

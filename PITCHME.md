@@ -31,7 +31,7 @@
 @snap[west span-50]
 ### Tech Refresh
 @snapend
-@ul[south-east span-50]
+@ul[east span-50]
 - Environments Targeted
   - IBB & Std & Perf
 - What's Going Well
@@ -44,7 +44,9 @@
 
 ---?color=#2B9AD0
 
+@snap[north span-100]
 ## @color[#232C31](Exploi...Leverage Work Done)
+@snapend
 
 @snap[west span-50]
 ### Reach White Space

@@ -3,7 +3,9 @@
 
 ---?color=#2B9AD0
 
+@snap[#232C31]
 ## Quartly Deals and Risks P.1
+@snapend
 
 @snap[text-left]
 ### HCI Standard
@@ -22,11 +24,13 @@
 
 ---?color=#2B9AD0
 
-@snap[text-left]
+@snap[#232C31]
 ## Quarterly Deals and Risks P.2
 @snapend
 
+@snap[text-left]
 ### Tech Refresh
+@snapend
 @ul[spaced text-white]
 - Environments Targeted
   - IBB & Std & Perf

@@ -8,14 +8,14 @@
 @ul[spaced text-white]
 - HCI Standard
   - Environments Targeted
-    - IBB & Remote Offices
+    IBB & Remote Offices
   - What's Going Well
-    - VMware Partnership
-    - Seeded Gear
-    - Product Improvements
+    VMware Partnership
+    Seeded Gear
+    Product Improvements
   - Risks
-    - Price
-    - Waning Desire to Change Architecture of IBB
+    Price
+    Waning Desire to Change Architecture of IBB
 @ulend
 
 ---?color=#2B9AD0

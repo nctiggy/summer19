@@ -5,7 +5,9 @@
 
 ## Quartly Deals and Risks P.1
 
+@snap[text-left]
 ### HCI Standard
+@snapend
 @ul[spaced text-white]
 - Environments Targeted
   - IBB & Remote Offices
@@ -20,7 +22,9 @@
 
 ---?color=#2B9AD0
 
+@snap[text-left]
 ## Quarterly Deals and Risks P.2
+@snapend
 
 ### Tech Refresh
 @ul[spaced text-white]
@@ -38,14 +42,18 @@
 
 ## Exploi...Leverage Work Done
 
+@snap[text-left]
 ### The Unsolicited Train
+@snapend
 @ul[spaced text-white]
   - SIPS - SBUX Integrated Protection Suite
   - Unstructured - Summer/Fall
   - Boomi - Fall/Winter
 @ulend
 
+@snap[text-left]
 ### Talent Lab
+@snapend
 @ul[spaced text-white]
   - Unstructured (maybe ML/AI)
   - Boomi

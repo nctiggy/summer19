@@ -1,8 +1,6 @@
 ---?color=#2B9AD0
 # SE Slide
-@fab[docker] @fab[github]
-
-
+@fab[docker]@fab[github]@fab[jenkins]@fab[python]@fab[coffee]@fab[linux]@fab[brackets-curly]
 ---?color=#2B9AD0
 
 ## @color[#232C31](Quartly Deals and Risks P.1)

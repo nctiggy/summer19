@@ -25,13 +25,13 @@
 ---?color=#2B9AD0
 
 @snap[#232C31]
-## Quarterly Deals and Risks P.2
+## @color[#232C31](Quarterly Deals and Risks P.2)
 @snapend
 
+@ul[spaced text-white]
 @snap[text-left]
 ### Tech Refresh
 @snapend
-@ul[spaced text-white]
 - Environments Targeted
   - IBB & Std & Perf
 - What's Going Well
@@ -44,12 +44,12 @@
 
 ---?color=#2B9AD0
 
-## Exploi...Leverage Work Done
+## @color[#232C31](Exploi...Leverage Work Done)
 
+@ul[spaced text-white]
 @snap[text-left]
 ### The Unsolicited Train
 @snapend
-@ul[spaced text-white]
   - SIPS - SBUX Integrated Protection Suite
   - Unstructured - Summer/Fall
   - Boomi - Fall/Winter

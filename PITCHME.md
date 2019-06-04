@@ -5,6 +5,7 @@
 
 ## Quartly Deals and Risks P.1
 
+@ul[spaced text-white]
 - HCI Standard
     - Environments Targeted
         - IBB & Remote Offices
@@ -15,11 +16,13 @@
     - Risks
         - Price
         - Waning Desire to Change Architecture of IBB
+@ulend
 
 ---?color=#2B9AD0
 
 ## Quarterly Deals and Risks P.2
 
+@ul[spaced text-white]
 - Tech Refresh
     - Environments Targeted
         - IBB & Std & Perf
@@ -28,12 +31,14 @@
         - Budget
     - Risks
         - RCA for XIO1 Boot LUN
+@ulend
 
 
 ---?color=#2B9AD0
 
-## Technical-Fu
+## Exploi...Leverage Work Done
 
+@ul[spaced text-white]
 - The Unsolicited Train
     - SIPS - SBUX Integrated Protection Suite
     - Unstructured - Summer/Fall
@@ -41,6 +46,7 @@
 - Talent Lab
     - Unstructured (maybe ML/AI)
     - Boomi
+@ulend
 
 ---?color=#2B9AD0
 

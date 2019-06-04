@@ -6,16 +6,16 @@
 ## Quartly Deals and Risks P.1
 
 @ul[spaced text-white]
-- HCI Standard
-  - Environments Targeted
-    IBB & Remote Offices
-  - What's Going Well
-    VMware Partnership
-    Seeded Gear
-    Product Improvements
-  - Risks
-    Price
-    Waning Desire to Change Architecture of IBB
+HCI Standard
+- Environments Targeted
+  - IBB & Remote Offices
+- What's Going Well
+  - VMware Partnership
+  - Seeded Gear
+  - Product Improvements
+- Risks
+  - Price
+  - Waning Desire to Change Architecture of IBB
 @ulend
 
 ---?color=#2B9AD0
@@ -23,14 +23,14 @@
 ## Quarterly Deals and Risks P.2
 
 @ul[spaced text-white]
-- Tech Refresh
-    - Environments Targeted
-        - IBB & Std & Perf
-    - What's Going Well
-        - We Won the Standard
-        - Budget
-    - Risks
-        - RCA for XIO1 Boot LUN
+Tech Refresh
+- Environments Targeted
+  - IBB & Std & Perf
+- What's Going Well
+  - We Won the Standard
+  - Budget
+- Risks
+  - RCA for XIO1 Boot LUN
 @ulend
 
 
@@ -39,18 +39,18 @@
 ## Exploi...Leverage Work Done
 
 @ul[spaced text-white]
-- The Unsolicited Train
-    - SIPS - SBUX Integrated Protection Suite
-    - Unstructured - Summer/Fall
-    - Boomi - Fall/Winter
-- Talent Lab
-    - Unstructured (maybe ML/AI)
-    - Boomi
+The Unsolicited Train
+  - SIPS - SBUX Integrated Protection Suite
+  - Unstructured - Summer/Fall
+  - Boomi - Fall/Winter
+Talent Lab
+  - Unstructured (maybe ML/AI)
+  - Boomi
 @ulend
 
 ---?color=#2B9AD0
 
-![](https://i.imgur.com/P9WYDkU.png)
+![ ](https://i.imgur.com/P9WYDkU.png)
 
 ---?color=#2B9AD0
 

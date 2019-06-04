@@ -1,6 +1,6 @@
 ---?color=#2B9AD0
 # SE Slide
-@fab[docker] @fab[github] @fab[jenkins] @fab[python] @fab[coffee]
+@fab[thumbs-up] @fab[code] @fab[docker] @fab[github] @fab[jenkins] @fab[python] @fab[coffee]
 
 ---?color=#2B9AD0
 

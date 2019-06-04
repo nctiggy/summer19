@@ -1,6 +1,6 @@
 ---?color=#2B9AD0
 # SE Slide
-@fa[docker] @fa[github]
+@fab[docker] @fab[github]
 
 
 ---?color=#2B9AD0
@@ -53,12 +53,10 @@
   - SIPS - SBUX Integrated Protection Suite
   - Unstructured - Summer/Fall
   - Boomi - Fall/Winter
-@ulend
 
 @snap[text-left]
 ### Talent Lab
 @snapend
-@ul[spaced text-white]
   - Unstructured (maybe ML/AI)
   - Boomi
 @ulend

@@ -1,16 +1,16 @@
 ---?color=#2B9AD0
 # SE Slide
-@fab[docker] @fab[github] @fab[jenkins] @fab[python] @fab[coffee] @fab[fa-linux]
+@fab[docker] @fab[github] @fab[jenkins] @fab[python] @fab[coffee]
 
 ---?color=#2B9AD0
 
-@snap[north]
+@snap[north span-100]
 ## @color[#232C31](Quartly Deals and Risks P.1)
 @snapend
 @snap[west]
 ### HCI Standard
 @snapend
-@ul[text-white east]
+@snap[text-white east]
 - Environments Targeted
   - IBB & Remote Offices
 - What's Going Well
@@ -20,7 +20,7 @@
 - Risks
   - Price
   - Waning Desire to Change Architecture of IBB
-@ulend
+@snapend
 
 ---?color=#2B9AD0
 

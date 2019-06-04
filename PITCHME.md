@@ -1,11 +1,11 @@
 ---?color=#2B9AD0
 # SE Slide
+@fab[docker github]
+
 
 ---?color=#2B9AD0
 
-@snap[#232C31]
-## Quartly Deals and Risks P.1
-@snapend
+@color[#232C31](## Quartly Deals and Risks P.1)
 
 @snap[text-left]
 ### HCI Standard
@@ -46,8 +46,6 @@
 
 ## Exploi...Leverage Work Done
 
-@fab[docker]
-
 @snap[text-left]
 ### The Unsolicited Train
 @snapend
@@ -65,11 +63,7 @@
   - Boomi
 @ulend
 
----?color=#2B9AD0
+---?image=https://i.imgur.com/P9WYDkU.png
 
-![ ](https://i.imgur.com/P9WYDkU.png)
 
----?color=#2B9AD0
-
-![](https://i.imgur.com/DupBAWu.png)
-
+---?image=https://i.imgur.com/DupBAWu.png
